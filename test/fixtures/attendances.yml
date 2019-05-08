@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_id: 1
+  in_time: 2019-05-08 22:41:40
+  out_time: 2019-05-08 22:41:40
+  attendance_date: 2019-05-08 22:41:40
+
+two:
+  employee_id: 1
+  in_time: 2019-05-08 22:41:40
+  out_time: 2019-05-08 22:41:40
+  attendance_date: 2019-05-08 22:41:40
